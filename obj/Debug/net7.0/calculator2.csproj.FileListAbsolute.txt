@@ -1,0 +1,15 @@
+C:\Users\codeceuma\MeuApp\calculator2\bin\Debug\net7.0\calculator2.exe
+C:\Users\codeceuma\MeuApp\calculator2\bin\Debug\net7.0\calculator2.deps.json
+C:\Users\codeceuma\MeuApp\calculator2\bin\Debug\net7.0\calculator2.runtimeconfig.json
+C:\Users\codeceuma\MeuApp\calculator2\bin\Debug\net7.0\calculator2.dll
+C:\Users\codeceuma\MeuApp\calculator2\bin\Debug\net7.0\calculator2.pdb
+C:\Users\codeceuma\MeuApp\calculator2\obj\Debug\net7.0\calculator2.csproj.AssemblyReference.cache
+C:\Users\codeceuma\MeuApp\calculator2\obj\Debug\net7.0\calculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codeceuma\MeuApp\calculator2\obj\Debug\net7.0\calculator2.AssemblyInfoInputs.cache
+C:\Users\codeceuma\MeuApp\calculator2\obj\Debug\net7.0\calculator2.AssemblyInfo.cs
+C:\Users\codeceuma\MeuApp\calculator2\obj\Debug\net7.0\calculator2.csproj.CoreCompileInputs.cache
+C:\Users\codeceuma\MeuApp\calculator2\obj\Debug\net7.0\calculator2.dll
+C:\Users\codeceuma\MeuApp\calculator2\obj\Debug\net7.0\refint\calculator2.dll
+C:\Users\codeceuma\MeuApp\calculator2\obj\Debug\net7.0\calculator2.pdb
+C:\Users\codeceuma\MeuApp\calculator2\obj\Debug\net7.0\calculator2.genruntimeconfig.cache
+C:\Users\codeceuma\MeuApp\calculator2\obj\Debug\net7.0\ref\calculator2.dll
